@@ -49,6 +49,7 @@ Nesta etapa inicial, são importadas todas as bibliotecas necessárias para o **
 ✅ **Mensagem de verificação**:  
 ```python
 print("Bibliotecas importadas com sucesso!")
+```
 
 ## 📂 Carregamento dos Dados
 
